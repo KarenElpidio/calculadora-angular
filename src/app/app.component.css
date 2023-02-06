@@ -1,0 +1,27 @@
+
+form {
+        width: 300px;
+        padding: 20px;
+        border: 1px solid #ccc;
+      }
+      
+      label {
+        font-weight: bold;
+      }
+      
+      input[type="number"] {
+        padding: 10px;
+        margin-bottom: 20px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      
+      input[type="submit"] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        cursor: pointer;
+        width: 100%;
+      }
